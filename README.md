@@ -13,7 +13,7 @@
         The above command will create the Supplier-Backend.jar in the target folder
     7. After building the jar run the file using terminal command : java -jar supplier-backend.jar
     8. Open the terminal and paste the following curl command 
-        # gcUrl command: curl -X POST 'http://localhost:8080/api/v1/supplier/query?page=1&size=10&location=India&nature_of_business=medium_scale&manufacturing_process=3d_printing'
+        cUrl command: curl -X POST 'http://localhost:8080/api/v1/supplier/query?page=1&size=10&location=India&nature_of_business=medium_scale&manufacturing_process=3d_printing'
     
 # The final results will look like this
 ![img_1.png](img_1.png)
