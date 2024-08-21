@@ -7,7 +7,7 @@
         and import the data from the suppliers.json to that collection using mongoDb compass
 
 ![img.png](img.png)
-
+# The final schema will look like this
     6. Run the backend-application in terminal by typing:
         1. ./mvnw package
         The above command will create the Supplier-Backend.jar in the target folder
@@ -21,10 +21,10 @@
 You can change the value of the pages if the result are many then it will show only the first 10 entries you can change the count from changing 
 the size parameter in the cUrl url size parameter and page for changing the page
 # FEATURES WE CAN ADD:
-# We can also add more features like user authentication and implementing the spring security for authentication and authorization of the user
-# We can implement the caching for the most frequent searched result
+* We can also add more features like user authentication and implementing the spring security for authentication and authorization of the user
+* We can implement the caching for the most frequent searched result
 * Adding multiple search parameter to filter out the results having multiple criteria of search based on multiple location, nature_of_buisness
-# Rating of the suppliers signifies the best supplier
-# Review of the suppliers
-# Avalaibility of the suppliers
-# JWT for authorization of the user
+* Rating of the suppliers signifies the best supplier
+* Review of the suppliers
+* Avalaibility of the suppliers
+* JWT for authorization of the user
