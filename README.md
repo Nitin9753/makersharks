@@ -23,7 +23,7 @@ the size parameter in the cUrl url size parameter and page for changing the page
 # FEATURES WE CAN ADD:
 # We can also add more features like user authentication and implementing the spring security for authentication and authorization of the user
 # We can implement the caching for the most frequent searched result
-# Adding multiple search parameter to filter out the results having multiple criteria of search based on multiple location, nature_of_buisness
+* Adding multiple search parameter to filter out the results having multiple criteria of search based on multiple location, nature_of_buisness
 # Rating of the suppliers signifies the best supplier
 # Review of the suppliers
 # Avalaibility of the suppliers
