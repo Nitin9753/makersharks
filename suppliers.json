@@ -1,0 +1,1775 @@
+[{
+  "_id": {
+    "$oid": "66c5755e40f81a708341b415"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f21"
+  },
+  "id": "54bd5990-5999-424f-afc6-5fb5ace20941",
+  "company_name": "Company 1 Pvt. Ltd.",
+  "website": "https://company1.com",
+  "location": "Canada",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f22"
+  },
+  "id": "7ad5ed30-675e-42df-a076-a25f0da2a109",
+  "company_name": "Company 2 Pvt. Ltd.",
+  "website": "https://company2.com",
+  "location": "Brazil",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f23"
+  },
+  "id": "1c8d6c5b-9fa1-48c0-95ae-c68f81eb2771",
+  "company_name": "Company 3 Pvt. Ltd.",
+  "website": "https://company3.com",
+  "location": "Australia",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "casting",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f24"
+  },
+  "id": "27a0fcc6-81f5-4a7e-bd43-75acc54f2659",
+  "company_name": "Company 4 Pvt. Ltd.",
+  "website": "https://company4.com",
+  "location": "Germany",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f25"
+  },
+  "id": "198aea9d-438d-45ed-84fc-af228f0a3069",
+  "company_name": "Company 5 Pvt. Ltd.",
+  "website": "https://company5.com",
+  "location": "USA",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating",
+    "moulding",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f26"
+  },
+  "id": "b8305a68-ec7b-4401-9efa-35c8670728c4",
+  "company_name": "Company 6 Pvt. Ltd.",
+  "website": "https://company6.com",
+  "location": "China",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f27"
+  },
+  "id": "13243127-54ba-43af-8301-eddd76c5b854",
+  "company_name": "Company 7 Pvt. Ltd.",
+  "website": "https://company7.com",
+  "location": "UK",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f28"
+  },
+  "id": "81b25c21-a86c-4a55-a811-ac1e6fd664ca",
+  "company_name": "Company 8 Pvt. Ltd.",
+  "website": "https://company8.com",
+  "location": "Brazil",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f29"
+  },
+  "id": "23f84759-2843-4e63-88ea-f40a16f4a9e4",
+  "company_name": "Company 9 Pvt. Ltd.",
+  "website": "https://company9.com",
+  "location": "China",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f2a"
+  },
+  "id": "e977486d-3f9d-4a93-b586-ca9d95da5df9",
+  "company_name": "Company 10 Pvt. Ltd.",
+  "website": "https://company10.com",
+  "location": "Brazil",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f2b"
+  },
+  "id": "9f59d3f7-d803-4387-9056-c042a7f68e65",
+  "company_name": "Company 11 Pvt. Ltd.",
+  "website": "https://company11.com",
+  "location": "China",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f2c"
+  },
+  "id": "3499fdc2-bc8a-4da2-8922-507696d4d1c4",
+  "company_name": "Company 12 Pvt. Ltd.",
+  "website": "https://company12.com",
+  "location": "Japan",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f2d"
+  },
+  "id": "c70e5dda-8233-40a7-a66d-32e11c154e9e",
+  "company_name": "Company 13 Pvt. Ltd.",
+  "website": "https://company13.com",
+  "location": "South Korea",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "coating",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f2e"
+  },
+  "id": "632c717a-e67d-451a-b62b-195fcf4fc2b5",
+  "company_name": "Company 14 Pvt. Ltd.",
+  "website": "https://company14.com",
+  "location": "Canada",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f2f"
+  },
+  "id": "bee522e8-5dbb-455b-946e-db0d105a1155",
+  "company_name": "Company 15 Pvt. Ltd.",
+  "website": "https://company15.com",
+  "location": "Germany",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f30"
+  },
+  "id": "0dbaec1b-68fd-4701-9017-b96b1f0ef352",
+  "company_name": "Company 16 Pvt. Ltd.",
+  "website": "https://company16.com",
+  "location": "Germany",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f31"
+  },
+  "id": "e38132a8-6e83-4114-8206-3936ad95dd8f",
+  "company_name": "Company 17 Pvt. Ltd.",
+  "website": "https://company17.com",
+  "location": "Germany",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f32"
+  },
+  "id": "607aee05-cabf-4ff4-8943-a16e195d81dc",
+  "company_name": "Company 18 Pvt. Ltd.",
+  "website": "https://company18.com",
+  "location": "USA",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f33"
+  },
+  "id": "773bcbae-17f9-46aa-b6df-31dc1bfbb754",
+  "company_name": "Company 19 Pvt. Ltd.",
+  "website": "https://company19.com",
+  "location": "China",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating",
+    "casting",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f34"
+  },
+  "id": "30ad7372-ac41-4153-8e40-25b481e6657f",
+  "company_name": "Company 20 Pvt. Ltd.",
+  "website": "https://company20.com",
+  "location": "South Korea",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating",
+    "3d_printing",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f35"
+  },
+  "id": "9ee57faf-69d3-4b0f-94d2-f60e9eb5d0e7",
+  "company_name": "Company 21 Pvt. Ltd.",
+  "website": "https://company21.com",
+  "location": "Japan",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f36"
+  },
+  "id": "185f5655-5cb3-491d-ae7b-177fa0683df8",
+  "company_name": "Company 22 Pvt. Ltd.",
+  "website": "https://company22.com",
+  "location": "Germany",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f37"
+  },
+  "id": "f70145ca-e63f-44dd-bf7c-76094761fba3",
+  "company_name": "Company 23 Pvt. Ltd.",
+  "website": "https://company23.com",
+  "location": "UK",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "casting",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f38"
+  },
+  "id": "7ae09bfb-a8d2-4639-9768-521d99afa2d5",
+  "company_name": "Company 24 Pvt. Ltd.",
+  "website": "https://company24.com",
+  "location": "Japan",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "coating",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f39"
+  },
+  "id": "190b9b54-473e-4e23-8226-61210a4f98cd",
+  "company_name": "Company 25 Pvt. Ltd.",
+  "website": "https://company25.com",
+  "location": "Canada",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f3a"
+  },
+  "id": "c9062162-d0f0-4b63-8407-038374955614",
+  "company_name": "Company 26 Pvt. Ltd.",
+  "website": "https://company26.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f3b"
+  },
+  "id": "9fff8a99-8076-4ed2-908c-bdc90de2908d",
+  "company_name": "Company 27 Pvt. Ltd.",
+  "website": "https://company27.com",
+  "location": "USA",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating",
+    "casting",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f3c"
+  },
+  "id": "cbd51b0f-361c-40f8-bda4-68ce0e721092",
+  "company_name": "Company 28 Pvt. Ltd.",
+  "website": "https://company28.com",
+  "location": "UK",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f3d"
+  },
+  "id": "7ab9b716-2181-4b86-9d11-bc63dc687b95",
+  "company_name": "Company 29 Pvt. Ltd.",
+  "website": "https://company29.com",
+  "location": "Germany",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f3e"
+  },
+  "id": "fbe8b53a-05c4-4e96-b906-f4ff1746fd74",
+  "company_name": "Company 30 Pvt. Ltd.",
+  "website": "https://company30.com",
+  "location": "Germany",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f3f"
+  },
+  "id": "235452b0-8b1a-492b-9742-450ea2e5caa6",
+  "company_name": "Company 31 Pvt. Ltd.",
+  "website": "https://company31.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f40"
+  },
+  "id": "6c95acbe-83be-49e3-88d1-71667c7d627d",
+  "company_name": "Company 32 Pvt. Ltd.",
+  "website": "https://company32.com",
+  "location": "South Korea",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f41"
+  },
+  "id": "2108a40f-6ab3-4101-9df9-1a75e11ccc2a",
+  "company_name": "Company 33 Pvt. Ltd.",
+  "website": "https://company33.com",
+  "location": "China",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f42"
+  },
+  "id": "388586e5-3184-4f85-afc1-6e490ce764d5",
+  "company_name": "Company 34 Pvt. Ltd.",
+  "website": "https://company34.com",
+  "location": "Japan",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f43"
+  },
+  "id": "02064ccb-198b-4e0e-acf2-53d8ca0271d5",
+  "company_name": "Company 35 Pvt. Ltd.",
+  "website": "https://company35.com",
+  "location": "South Korea",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f44"
+  },
+  "id": "fbf9ba4b-bb21-4185-a11b-3cdcbdafa8be",
+  "company_name": "Company 36 Pvt. Ltd.",
+  "website": "https://company36.com",
+  "location": "South Korea",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f45"
+  },
+  "id": "638e96c2-030c-48a0-b96d-fcf550e905c7",
+  "company_name": "Company 37 Pvt. Ltd.",
+  "website": "https://company37.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f46"
+  },
+  "id": "4e86f138-8664-4467-9beb-a78bd3551cba",
+  "company_name": "Company 38 Pvt. Ltd.",
+  "website": "https://company38.com",
+  "location": "Canada",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f47"
+  },
+  "id": "85d707b5-5fdc-4c65-b256-1e28d4401604",
+  "company_name": "Company 39 Pvt. Ltd.",
+  "website": "https://company39.com",
+  "location": "China",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f48"
+  },
+  "id": "d8711dc1-8cee-4989-88b6-7519de79b892",
+  "company_name": "Company 40 Pvt. Ltd.",
+  "website": "https://company40.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f49"
+  },
+  "id": "aa3468ee-3a5d-4a8b-b861-487f519d0b8e",
+  "company_name": "Company 41 Pvt. Ltd.",
+  "website": "https://company41.com",
+  "location": "China",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f4a"
+  },
+  "id": "3e77318e-2b41-4dd1-b8c7-79901112f1e3",
+  "company_name": "Company 42 Pvt. Ltd.",
+  "website": "https://company42.com",
+  "location": "China",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "casting",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f4b"
+  },
+  "id": "122ae644-3c87-4923-8a46-57c6fc488a3b",
+  "company_name": "Company 43 Pvt. Ltd.",
+  "website": "https://company43.com",
+  "location": "Canada",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "casting",
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f4c"
+  },
+  "id": "aacc9b84-fa83-4a36-98c9-a8b8355644b1",
+  "company_name": "Company 44 Pvt. Ltd.",
+  "website": "https://company44.com",
+  "location": "South Korea",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f4d"
+  },
+  "id": "a60e6aa0-f212-41d2-811f-e4088f3f6f3c",
+  "company_name": "Company 45 Pvt. Ltd.",
+  "website": "https://company45.com",
+  "location": "Canada",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f4e"
+  },
+  "id": "05b7ce93-921c-4034-b624-d8b33baf22e4",
+  "company_name": "Company 46 Pvt. Ltd.",
+  "website": "https://company46.com",
+  "location": "China",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f4f"
+  },
+  "id": "2d1fff7d-a9b6-4b6d-a648-556aaa5c240b",
+  "company_name": "Company 47 Pvt. Ltd.",
+  "website": "https://company47.com",
+  "location": "USA",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating",
+    "moulding",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f50"
+  },
+  "id": "5974b854-cfda-4f9f-843f-3eaf2f08985a",
+  "company_name": "Company 48 Pvt. Ltd.",
+  "website": "https://company48.com",
+  "location": "Japan",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f51"
+  },
+  "id": "119984db-fc4d-4394-a3a0-2b030e7e6902",
+  "company_name": "Company 49 Pvt. Ltd.",
+  "website": "https://company49.com",
+  "location": "China",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f52"
+  },
+  "id": "43424eb1-8dd3-4f88-8e32-2b74490d4705",
+  "company_name": "Company 50 Pvt. Ltd.",
+  "website": "https://company50.com",
+  "location": "China",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f53"
+  },
+  "id": "22d9588c-a148-4896-afa1-122bbee8f5b0",
+  "company_name": "Company 51 Pvt. Ltd.",
+  "website": "https://company51.com",
+  "location": "Canada",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting",
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f54"
+  },
+  "id": "a004aee9-3e12-4fbb-ac17-a3ba7a899b21",
+  "company_name": "Company 52 Pvt. Ltd.",
+  "website": "https://company52.com",
+  "location": "South Korea",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f55"
+  },
+  "id": "9445d89f-ab4c-447d-9e59-54a16629e17c",
+  "company_name": "Company 53 Pvt. Ltd.",
+  "website": "https://company53.com",
+  "location": "Australia",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f56"
+  },
+  "id": "352b2d00-79b2-420b-9e05-eff071c47602",
+  "company_name": "Company 54 Pvt. Ltd.",
+  "website": "https://company54.com",
+  "location": "Brazil",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "casting",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f57"
+  },
+  "id": "178720c4-2a1f-4b1a-a410-084009d9a899",
+  "company_name": "Company 55 Pvt. Ltd.",
+  "website": "https://company55.com",
+  "location": "Canada",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f58"
+  },
+  "id": "c646e7ad-8d11-4b9a-9d3c-e5617bca6cc9",
+  "company_name": "Company 56 Pvt. Ltd.",
+  "website": "https://company56.com",
+  "location": "Australia",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "casting",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f59"
+  },
+  "id": "4de00050-4084-410a-8798-9a3ceb333735",
+  "company_name": "Company 57 Pvt. Ltd.",
+  "website": "https://company57.com",
+  "location": "Australia",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f5a"
+  },
+  "id": "0dc254a9-0a8a-420a-a54c-392de4e8d7eb",
+  "company_name": "Company 58 Pvt. Ltd.",
+  "website": "https://company58.com",
+  "location": "India",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f5b"
+  },
+  "id": "1e6bc81a-eb48-4737-978c-aafa429dba8e",
+  "company_name": "Company 59 Pvt. Ltd.",
+  "website": "https://company59.com",
+  "location": "UK",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "casting",
+    "coating",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f5c"
+  },
+  "id": "d3cde7be-e692-48fd-9f42-477c9628d6d8",
+  "company_name": "Company 60 Pvt. Ltd.",
+  "website": "https://company60.com",
+  "location": "India",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f5d"
+  },
+  "id": "bd2954bb-6f49-4256-a20f-268ab55e4a61",
+  "company_name": "Company 61 Pvt. Ltd.",
+  "website": "https://company61.com",
+  "location": "South Korea",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f5e"
+  },
+  "id": "ca327006-fae8-41d9-8c74-2d5550c737fb",
+  "company_name": "Company 62 Pvt. Ltd.",
+  "website": "https://company62.com",
+  "location": "Australia",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f5f"
+  },
+  "id": "600236a5-8455-460a-950b-b974949245e6",
+  "company_name": "Company 63 Pvt. Ltd.",
+  "website": "https://company63.com",
+  "location": "Canada",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f60"
+  },
+  "id": "1b003467-d1de-4771-a2a2-6130615b1cec",
+  "company_name": "Company 64 Pvt. Ltd.",
+  "website": "https://company64.com",
+  "location": "Brazil",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "coating",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f61"
+  },
+  "id": "57c99131-aa0a-4ff8-a512-a831d1fd2e9e",
+  "company_name": "Company 65 Pvt. Ltd.",
+  "website": "https://company65.com",
+  "location": "Australia",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f62"
+  },
+  "id": "cb55b72e-6668-4499-bd34-317febd1e3ac",
+  "company_name": "Company 66 Pvt. Ltd.",
+  "website": "https://company66.com",
+  "location": "Canada",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f63"
+  },
+  "id": "c3af1c03-33d2-4cb3-9200-36ec665b6381",
+  "company_name": "Company 67 Pvt. Ltd.",
+  "website": "https://company67.com",
+  "location": "India",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f64"
+  },
+  "id": "26c6e727-32bf-4090-892f-01e55965b1bd",
+  "company_name": "Company 68 Pvt. Ltd.",
+  "website": "https://company68.com",
+  "location": "South Korea",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting",
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f65"
+  },
+  "id": "cf26f8e1-2298-41bc-9f17-6e6299db56a1",
+  "company_name": "Company 69 Pvt. Ltd.",
+  "website": "https://company69.com",
+  "location": "Brazil",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f66"
+  },
+  "id": "7b569ef6-2370-4a28-ab9e-a09c08e977b9",
+  "company_name": "Company 70 Pvt. Ltd.",
+  "website": "https://company70.com",
+  "location": "USA",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f67"
+  },
+  "id": "00278f7b-36dc-47aa-8855-288387671ec6",
+  "company_name": "Company 71 Pvt. Ltd.",
+  "website": "https://company71.com",
+  "location": "UK",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f68"
+  },
+  "id": "98c4baf6-50ef-4a2c-8c9e-a10c435398bc",
+  "company_name": "Company 72 Pvt. Ltd.",
+  "website": "https://company72.com",
+  "location": "Canada",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f69"
+  },
+  "id": "ef252dde-3547-46b9-b323-4f46c6ebdfa5",
+  "company_name": "Company 73 Pvt. Ltd.",
+  "website": "https://company73.com",
+  "location": "South Korea",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f6a"
+  },
+  "id": "aee82470-426c-44c0-801a-7e6fbe1d8dcc",
+  "company_name": "Company 74 Pvt. Ltd.",
+  "website": "https://company74.com",
+  "location": "UK",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f6b"
+  },
+  "id": "3312b58d-c9bf-4a77-8253-7e9e740d60e4",
+  "company_name": "Company 75 Pvt. Ltd.",
+  "website": "https://company75.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f6c"
+  },
+  "id": "5725c119-8036-4796-b6e0-62a2d6459757",
+  "company_name": "Company 76 Pvt. Ltd.",
+  "website": "https://company76.com",
+  "location": "USA",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating",
+    "moulding",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f6d"
+  },
+  "id": "ac2db2d4-ded0-4cdf-bdaa-2bc31042975b",
+  "company_name": "Company 77 Pvt. Ltd.",
+  "website": "https://company77.com",
+  "location": "Canada",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating",
+    "casting",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f6e"
+  },
+  "id": "16a2b23e-f519-4304-bae8-6371319aa8e6",
+  "company_name": "Company 78 Pvt. Ltd.",
+  "website": "https://company78.com",
+  "location": "Australia",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f6f"
+  },
+  "id": "aa10b86e-f688-489b-9980-2a70189bc402",
+  "company_name": "Company 79 Pvt. Ltd.",
+  "website": "https://company79.com",
+  "location": "China",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f70"
+  },
+  "id": "a93982f5-2e00-4159-b11e-b3b3a109cc88",
+  "company_name": "Company 80 Pvt. Ltd.",
+  "website": "https://company80.com",
+  "location": "Germany",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "casting",
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f71"
+  },
+  "id": "9c5750d7-f54e-49c8-8ade-e04ca9792897",
+  "company_name": "Company 81 Pvt. Ltd.",
+  "website": "https://company81.com",
+  "location": "USA",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f72"
+  },
+  "id": "44aca14c-2b8b-4c8c-91ea-bad2334c9c03",
+  "company_name": "Company 82 Pvt. Ltd.",
+  "website": "https://company82.com",
+  "location": "Japan",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "coating",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f73"
+  },
+  "id": "a18a527a-04d0-47f7-bf34-87a6ad207bc2",
+  "company_name": "Company 83 Pvt. Ltd.",
+  "website": "https://company83.com",
+  "location": "Australia",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f74"
+  },
+  "id": "81018f1c-edd4-45d3-8cfd-9ea33e531c7d",
+  "company_name": "Company 84 Pvt. Ltd.",
+  "website": "https://company84.com",
+  "location": "Germany",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f75"
+  },
+  "id": "c939421d-4890-4fd8-b561-6b9c928e03ac",
+  "company_name": "Company 85 Pvt. Ltd.",
+  "website": "https://company85.com",
+  "location": "Japan",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "casting",
+    "3d_printing",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f76"
+  },
+  "id": "0f983b02-aad2-47f1-87ba-aae8853b7aa2",
+  "company_name": "Company 86 Pvt. Ltd.",
+  "website": "https://company86.com",
+  "location": "Australia",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f77"
+  },
+  "id": "107b8009-a17b-4bd3-b7f9-fe8c80951d32",
+  "company_name": "Company 87 Pvt. Ltd.",
+  "website": "https://company87.com",
+  "location": "Germany",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f78"
+  },
+  "id": "2426c30c-1af1-43b5-b897-57f6b41d2b26",
+  "company_name": "Company 88 Pvt. Ltd.",
+  "website": "https://company88.com",
+  "location": "South Korea",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f79"
+  },
+  "id": "ba9b1f8c-e01f-484d-b1c5-22262cf3f67c",
+  "company_name": "Company 89 Pvt. Ltd.",
+  "website": "https://company89.com",
+  "location": "Australia",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f7a"
+  },
+  "id": "b8dddc2a-7c5b-4756-bf7a-8b8796c37591",
+  "company_name": "Company 90 Pvt. Ltd.",
+  "website": "https://company90.com",
+  "location": "Canada",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f7b"
+  },
+  "id": "06d47ff2-30d3-4a90-928e-ea6d87376ca0",
+  "company_name": "Company 91 Pvt. Ltd.",
+  "website": "https://company91.com",
+  "location": "Germany",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f7c"
+  },
+  "id": "cf00ecf8-6f16-4ea0-a8c3-5c4363435369",
+  "company_name": "Company 92 Pvt. Ltd.",
+  "website": "https://company92.com",
+  "location": "Germany",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting",
+    "coating",
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f7d"
+  },
+  "id": "cafd3264-7723-42dd-9bbb-23caa005993e",
+  "company_name": "Company 93 Pvt. Ltd.",
+  "website": "https://company93.com",
+  "location": "Germany",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "casting",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f7e"
+  },
+  "id": "acb78835-d30b-4558-bd70-b8ccb8ebb0b8",
+  "company_name": "Company 94 Pvt. Ltd.",
+  "website": "https://company94.com",
+  "location": "USA",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "coating"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f7f"
+  },
+  "id": "057f5b53-eccb-49a7-bc90-d5c9f6081fe5",
+  "company_name": "Company 95 Pvt. Ltd.",
+  "website": "https://company95.com",
+  "location": "Canada",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "moulding",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f80"
+  },
+  "id": "adccb59b-b03c-4da4-af99-246d8fe3cfa9",
+  "company_name": "Company 96 Pvt. Ltd.",
+  "website": "https://company96.com",
+  "location": "USA",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "3d_printing",
+    "coating",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f81"
+  },
+  "id": "44f40514-6c09-4e81-bed7-1899bfcf127c",
+  "company_name": "Company 97 Pvt. Ltd.",
+  "website": "https://company97.com",
+  "location": "South Korea",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "moulding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f82"
+  },
+  "id": "0375939b-e5e2-4387-a3da-2d4085f1bc6a",
+  "company_name": "Company 98 Pvt. Ltd.",
+  "website": "https://company98.com",
+  "location": "South Korea",
+  "nature_of_business": "large_scale",
+  "manufacturing_processes": [
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f83"
+  },
+  "id": "96770fef-9277-4dea-b4e8-cce73e7c226e",
+  "company_name": "Company 99 Pvt. Ltd.",
+  "website": "https://company99.com",
+  "location": "Brazil",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "coating",
+    "casting",
+    "3d_printing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c56b760cd24edcae0c5f84"
+  },
+  "id": "479de32b-a5ba-4c74-8cc7-34ddfc8592d0",
+  "company_name": "Company 100 Pvt. Ltd.",
+  "website": "https://company100.com",
+  "location": "UK",
+  "nature_of_business": "small_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "casting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c577020cd24edcae0c5f87"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773940f81a708341b416"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773a40f81a708341b417"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773b40f81a708341b418"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773b40f81a708341b419"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773c40f81a708341b41a"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773d40f81a708341b41b"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773e40f81a708341b41c"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773e40f81a708341b41d"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5773f40f81a708341b41e"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774040f81a708341b41f"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774140f81a708341b420"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774240f81a708341b421"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774340f81a708341b422"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774440f81a708341b423"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774c40f81a708341b424"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774d40f81a708341b425"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5774f40f81a708341b426"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775040f81a708341b427"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775140f81a708341b428"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775240f81a708341b429"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775340f81a708341b42a"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775440f81a708341b42b"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775440f81a708341b42c"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775540f81a708341b42d"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+},
+{
+  "_id": {
+    "$oid": "66c5775640f81a708341b42e"
+  },
+  "company_name": "New Tech Industries",
+  "website": "https://newtech.com",
+  "location": "India",
+  "nature_of_business": "medium_scale",
+  "manufacturing_processes": [
+    "moulding",
+    "3d_printing"
+  ],
+  "_class": "com.example.supplier.entity.Supplier"
+}]

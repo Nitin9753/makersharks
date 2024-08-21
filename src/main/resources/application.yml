@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: supplier
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: supplier
+      auto-index-creation: true
